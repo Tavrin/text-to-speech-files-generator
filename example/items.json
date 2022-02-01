@@ -1,9 +1,0 @@
-{
-    "items": [
-        {
-            "name": "sound1",
-            "file": "D:\\phaserjs\\jeuarduino\\text-to-speech-files-generator/example/output/Il_était_une_fois.wav",
-            "description": "Il était une fois"
-        }
-    ]
-}
